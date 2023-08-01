@@ -37,4 +37,4 @@ app.get('/register', (req, res) => {
   res.render("register.ejs")
 })
 console.log(users); // display newly registered in consloe 
-app.listen(3000);
+app.listen(5000);
